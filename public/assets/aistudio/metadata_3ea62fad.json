@@ -1,0 +1,6 @@
+{
+  "name": "Begonvil Otel - RAG & Ajan Sistemi (Tech İstanbul)",
+  "description": "Tech İstanbul Yapay Zekâ Bootcamp Bitirme Projesi: Begonvil Otel RAG Misafir Rehberi, Tablo Sorgulama Ajanı ve 13 Test Sorulu Benchmark Sistemi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
